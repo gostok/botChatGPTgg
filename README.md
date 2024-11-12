@@ -25,8 +25,8 @@
 
 ### Установка:
 
-git clone https://github.com/gostok/NoSmoking_bot.git <br>
-cd NoSmoking_bot <br>
+git clone https://github.com/gostok/botChatGPTgg.git <br>
+cd botChatGPTgg <br>
 pip install -r requirements.txt
 
 ### Запуск:
